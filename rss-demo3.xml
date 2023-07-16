@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NYT Golf</title>
+    <link>https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml</link>
+    <description>NYT Golf RSS feed</description>
+    <item>
+      <title>Photographs From Sunday’s Final Round at the Masters</title>
+      <link>https://www.nytimes.com/2023/04/09/sports/golf/masters-sunday-in-photographs.html</link>
+      <description><![CDATA[<img src="https://www.e-architect.com/wp-content/uploads/2023/07/booking-com-hq-restaurant-five-islands-U150723-mw4_result.jpg "  alt="" />]]></description>
+      <pubDate>Mon, 10 Apr 2023 01:59:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jon Rahm Wins Masters, Surging Past Brooks Koepka</title>
+      <link>https://www.nytimes.com/2023/04/09/sports/golf/masters-winner-jon-rahm.html</link>
+    <description><![CDATA[<img src="https://www.e-architect.com/wp-content/uploads/2023/07/booking-com-hq-restaurant-five-islands-U150723-mw4_result.jpg "  alt="" />]]></description>
+      <pubDate>Mon, 10 Apr 2023 03:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phil Mickelson Has Best Final Round in 30th Masters Appearance</title>
+      <link>https://www.nytimes.com/2023/04/09/sports/golf/masters-mickelson-liv.html</link>
+      <description><![CDATA[<img src="https://www.e-architect.com/wp-content/uploads/2023/07/booking-com-hq-restaurant-five-islands-U150723-mw4_result.jpg "  alt="" />]]></description>
+      <pubDate>Mon, 10 Apr 2023 00:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>At the Masters, Brooks Koepka Holds the Lead and Tiger Woods Withdraws</title>
+      <link>https://www.nytimes.com/2023/04/09/sports/golf/tiger-woods-withdraws-koepka-rahm.html</link>
+     <description><![CDATA[<img src="https://www.e-architect.com/wp-content/uploads/2023/07/booking-com-hq-restaurant-five-islands-U150723-mw4_result.jpg "  alt="" />]]></description>
+      <pubDate>Sun, 09 Apr 2023 16:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sunday’s Masters Plan: End the Third Round, Play the Fourth, Crown a Winner. Maybe Dry Out, Too.</title>
+      <link>https://www.nytimes.com/2023/04/09/sports/golf/masters-sunday-weather.html</link>
+      <description><![CDATA[<img src="https://www.e-architect.com/wp-content/uploads/2023/07/booking-com-hq-restaurant-five-islands-U150723-mw4_result.jpg "  alt="" />]]></description>
+      <pubDate>Sun, 09 Apr 2023 09:00:16 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
